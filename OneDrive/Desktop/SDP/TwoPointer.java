@@ -29,3 +29,6 @@ class Main {
 System.out.println("Indices: " + result[0] + ", " + result[1]);
     }
 }
+''what did i learn from this code?From this code, you can learn the following concepts:1. Two-Pointer Technique: The code demonstrates the two-pointer technique, which is a common algorithm
+ used to solve problems involving sorted arrays or lists. It involves using two pointers to traverse the array from both ends, allowing for efficient searching and comparison.
+2. Array Manipulation: The code shows how to manipulate arrays in Java, including accessing elements''
